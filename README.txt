@@ -1,5 +1,7 @@
 # random_plate_generator___text_cleaning
 Generates random vehicle license plates in accordance with Turkish regulations
+Takes arguments [test_time], [test_letters], [test_numbers] (all optional) to test cleaning efficiency 
+or execution time
 
 -------
 
